@@ -1,0 +1,6 @@
+bat
+ball
+gloves
+wickets
+bails
+helmet
