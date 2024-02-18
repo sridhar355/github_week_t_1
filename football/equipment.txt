@@ -1,0 +1,5 @@
+ball
+goalposts
+cleats
+socks
+gloves
